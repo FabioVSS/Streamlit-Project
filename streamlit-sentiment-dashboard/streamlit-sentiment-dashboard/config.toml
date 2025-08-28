@@ -1,0 +1,13 @@
+[theme]
+
+primaryColor = "#6D7F6E"
+font = "Opella Sans Light"
+backgroundColor = "#F7EFE6"
+textColor = "#042B0B"
+
+[theme.sidebar]
+
+primaryColor = "#B6BFB7"
+secondaryBackgroundColor = "#546955"
+backgroundColor = "#042B0B"
+textColor = "White"
